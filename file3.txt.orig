@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+Este é um exemplo de ficheiro de texto file3
+
+<h2>Bebidas</h2>
+
+<ul> 
+	<li>Coffee</li>
+	<li>Tea</li>
+	<li>Milk</li>
+</ul>
+=======
+<h1>Lista de Coisas</h1>
+
+<h2>Comidas</h2>
+
+<ul>
+	<li>Bolos</li>
+	<li>Tostas</li>
+	<li>Sandes</li>
+</ul>\
+>>>>>>> NovaFeature
