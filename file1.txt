@@ -25,3 +25,12 @@ Alterações efetuadas no branch NovaFeature
 
 
 Alteração no branch MASTER
+
+
+
+
+
+
+
+
+Alteração no branch NovaFeature
